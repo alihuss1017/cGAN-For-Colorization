@@ -6,8 +6,6 @@
 
 
 ## 🧠 Overview
-Brief summary of the project. Example:
-
 This project implements a conditional GAN (cGAN) framework for automatic image colorization. The generator learns to predict plausible ab color channels from a given grayscale L channel, while the discriminator guides this process by distinguishing real from generated color images.
 
 ## 📁 Dataset
